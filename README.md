@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ledsummer
-- 👀 I’m interested in web and cloud technologies
-- 🌱 I’m currently learning nodejs, flutter, and docker
-- 💞️ I’m looking to collaborate on a flutter project
+- 👋 Hi, I’m @ledsummer!
+- 👀 My interests focuses on web development, devops, cloud technologies and cybersecurity.
+- 🌱 I don't stop learning web frameworks such as vuejs, reactjs, nodejs, python (django) in my free time.
+- 💼 I'm currently working as a Business Solutions Analyst in one of the biggest bank in Riyadh, KSA 🇸🇦.
+- 👨‍🔬 Expert in developing robust APIs using expressjs.
 - 📫 How to reach me hello@crisrendoque.com
 
 <!---
